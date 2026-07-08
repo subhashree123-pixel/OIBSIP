@@ -131,20 +131,4 @@ A Python GUI application that generates secure random passwords.
 
 pip install -r requirements.txt
 
-python password_generator.py
-Internship Feature Checklist
-This project includes:
-✔ GUI using Tkinter
-✔ Adjustable password length
-✔ Uppercase, lowercase, numbers, symbols selection
-✔ Uses secrets module for secure password generation
-✔ Password strength indicator
-✔ Copy to Clipboard
-Optional enhancements (to score even better)
-You can add:
-Exclude ambiguous characters (0, O, l, 1)
-Password history (last 5 generated passwords)
-Ensure at least one character from each selected category is always included
-These align with the advanced task checklist and make your submission even stronger. �
-OASIS INFOBYTE — SIP Task List.pdf
-Once you've completed this project, I'll help you build the Basic Weather App with a modern GUI so you'll have all three required Python projects ready for submission.
+
