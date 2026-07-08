@@ -1,11 +1,4 @@
-Great choice. Random Password Generator (Task 3) is one of the easiest projects and fully satisfies the internship requirements if implemented properly. �
-OASIS INFOBYTE — SIP Task List.pdf
-I recommend building the Advanced (GUI) version because it looks much more impressive on GitHub while still being manageable.
-Project Structure
-Random-Password-Generator/
-│── password_generator.py
-│── requirements.txt
-│── README.md
+
 Step 1: Install Dependencies
 pip install pyperclip
 Step 2: password_generator.py
